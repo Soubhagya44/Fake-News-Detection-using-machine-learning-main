@@ -1,10 +1,3 @@
-# Fake-News-Detection-using-machine-learning
-Full stack Fake News Detection using machine learning code and documents
-
-## Youtube Video : https://youtu.be/RvvYV73JWqg
-
-
-![Red Bold News Youtube Thumbnail](https://user-images.githubusercontent.com/91561594/224483492-c5012c6a-b229-4559-9d78-cdce042623f4.jpg)
 
 ### Abstract : 
 
